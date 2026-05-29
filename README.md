@@ -1,0 +1,1 @@
+This repository contains a collection of Morningstar plugins. For more information, browse the individual plugin folders in GitHub, where each plugin links to the relevant internal directories and documentation.
