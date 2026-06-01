@@ -1,0 +1,15 @@
+{
+  "name": "morningstar-plugins",
+  "owner": {
+    "name": "Morningstar",
+    "email": "iep-dev@morningstar.com"
+  },
+  "description": "Morningstar plugins for Claude — analytical skills powered by Morningstar data and research.",
+  "plugins": [
+    {
+      "name": "morningstar",
+      "source": "./plugins/morningstar",
+      "description": "Investment analysis skills using Morningstar data, ratings, and research."
+    }
+  ]
+}

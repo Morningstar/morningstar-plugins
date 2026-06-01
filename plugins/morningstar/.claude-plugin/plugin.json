@@ -1,6 +1,6 @@
 {
   "name": "morningstar",
-  "description": "Morningstar investment analysis for equities and funds. Provides analytical skills powered by Morningstar's proprietary data and ratings — covering equity research, financial analysis, fund ratings, fund returns, and fund risk — via the Morningstar MCP server.",
+  "description": "Morningstar fund research plugin for screening, summarizing, and comparing funds and ETFs.",
   "version": "1.0.0",
   "author": {
     "name": "Morningstar",
